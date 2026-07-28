@@ -25,7 +25,7 @@ Sales managers need a quick and interactive way to monitor sales performance ins
 
 ## Dashboard Preview
 
-![Dashboard](Screenshot .jpg)
+![Dashboard Preview](Screenshot.jpg)
 
 ## Skills Demonstrated
 - Data Analysis
